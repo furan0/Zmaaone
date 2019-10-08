@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cable
+  - Carton
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2574905637
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Chelou
+    uniqueID: 2122023771
+    locked: 0
+  - name: CablesTapis
+    uniqueID: 3556569185
+    locked: 0
+  - name: CartonPiston
+    uniqueID: 2283015477
+    locked: 0
+  - name: Obstacles
+    uniqueID: 3023640885
+    locked: 0
+  - name: Edition
+    uniqueID: 1364652189
+    locked: 0
+  - name: Effets
+    uniqueID: 1743452637
+    locked: 0
